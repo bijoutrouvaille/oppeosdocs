@@ -2,7 +2,7 @@
 
 Get your questions answered.
 
-First, the basics,
+First the basics,
 
 - [FAQ](/help/faq.md)
 - [How To](/help/howto.md)
