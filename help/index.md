@@ -16,4 +16,4 @@ You did something, now what's next?
 - [Uniqleo: I have completed an Oppeo. What do I do?](/help/now-what/uniqleo.md)
 - [Closeo: I have posted one. What is next?](/help/now-what/closeo.md)
 
-![](/help/small-banner.jpg)
+![](https://bijoutrouvaille.github.io/oppeosdocs/help/small-banner.jpg)
