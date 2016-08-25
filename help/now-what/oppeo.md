@@ -1,3 +1,3 @@
 # Oppeo Now What
 
-now what
+After you create an oppeo, blablabla
