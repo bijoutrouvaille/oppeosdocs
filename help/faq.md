@@ -2,7 +2,7 @@
 
 ## HOW DOES IT WORK?
 
-> Closeos either “Bid” on or “Buy” space from the Oppeos.
+> Closeos “Buy” space from the Oppeos or make a suggestion of another rate.
 
 ## HOW MUCH DOES IT COST?
 
@@ -14,7 +14,7 @@
 
 ## WHEN DO OPPEOS GET THEIR MONEY?
 
-> The money is placed on hold in PayPal between the closeos and oppeos, until the purchase is complete. Once that space is finished and made live, the money is released into the oppeo's account.
+> The money is placed on hold in escrow by Braintree for the closeos and oppeos, until the purchase is complete. Once that space is finished and made live, the money is released into the oppeo's account.
 
 ## HOW LONG DOES IT TAKE?
 
