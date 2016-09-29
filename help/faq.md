@@ -1,29 +1,29 @@
-# FAQ
+## FAQ
 
-## HOW DOES IT WORK?
+### HOW DOES IT WORK?
 
-> Closeos “Buy” space from the Oppeos or make a suggestion of another rate.
+> **Closeos “Buy” space from the Oppeos or make a suggestion of another rate.**
 
-## HOW MUCH DOES IT COST?
+### HOW MUCH DOES IT COST?
 
-> The space owner, i.e. the oppeo, sets the price of the space they want to sell of which Oppeos.com takes 18%.
+> **The space owner, i.e. the oppeo, sets the price of the space they want to sell of which Oppeos.com takes 18%.**
 
-## HOW DO I KNOW MY OPPEOS SOLD?
+### HOW DO I KNOW MY OPPEOS SOLD?
 
-> Once purchased, the filmmaker, social celebrity, creative or b2b, gets a notification of the purchase.
+> **Once purchased, the filmmaker, social celebrity, creative or b2b, gets a notification of the purchase.**
 
-## WHEN DO OPPEOS GET THEIR MONEY?
+### WHEN DO OPPEOS GET THEIR MONEY?
 
-> The money is placed on hold in escrow by Braintree for the closeos and oppeos, until the purchase is complete. Once that space is finished and made live, the money is released into the oppeo's account.
+> **The money is placed on hold in escrow by Braintree for the closeos and oppeos, until the purchase is complete. Once that space is finished and made live, the money is released into the oppeo's account.**
 
-## HOW LONG DOES IT TAKE?
+### HOW LONG DOES IT TAKE?
 
-> It is up to the oppeo to place the product, logo or brand agreed upon both parties into the purchased space. The oppeo will have a time limit for delivery.
+> **It is up to the oppeo to place the product, logo or brand agreed upon both parties into the purchased space. The oppeo will have a time limit for delivery.**
 
-## HOW DO I GET AN INVITATION TO SUBMIT OPPEOS?
+### HOW DO I GET AN INVITATION TO SUBMIT OPPEOS?
 
-> Oppeos.com is in the beta stage and is invite only. You can create a space, but only approved oppeos can publish it to the public. We look through all the new submissions and will send you an invite depending on availability and space quality.
+> **Oppeos.com is in the beta stage and is invite only. You can create a space, but only approved oppeos can publish it to the public. We look through all the new submissions and will send you an invite depending on availability and space quality.**
 
-## WHAT IS IN IT FOR CLOSEOS?
+### WHAT IS IN IT FOR CLOSEOS?
 
-> Targeted market, low cpm, interactive immersive word of mouth, personal advertising, combined with traditional recall tactics driving direct action.
+> **Targeted market, low cpm, interactive immersive word of mouth, personal advertising, combined with traditional recall tactics driving direct action.**
