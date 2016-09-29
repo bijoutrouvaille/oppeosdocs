@@ -28,11 +28,11 @@
 
 #### Take a good  picture.  Use filters and get serious, creatively. This is where we decide if you are worthy or not.  Show your creative side with a darn good shot!  It's gonna sell ya or send you.
 
-![HTO-4 Button](help/howto/HTO-4%20Button.png)
+![HTO-4 Button](/help/howto/HTO-4%20Button.png)
 
 #### Like advertisers to Like.  Who are you in a few words? (Your followers are just like you so advertisers know who you reach).
 
-![HTO-5 Equals](help/howto/HTO-5%20Equals.png)
+![HTO-5 Equals](/help/howto/HTO-5%20Equals.png)
 
 #### When can you deliver the goods?  Immediately or will it take you 6 months from funding to finish your film or that social media post until it's just right.  Can you put invertizing into your open space in just 5 minutes or as soon as the advertiser sends you the product?  (Don't be a slack, there is cash on the table people).
 
