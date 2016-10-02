@@ -6,7 +6,7 @@
 
 ### HOW MUCH DOES IT COST?
 
-> **The space owner, i.e. the oppeo, sets the price of the space they want to sell of which Oppeos.com takes 18%.**
+> **The space owner, i.e. the oppeo, sets the price of the space they want to sell of which Oppeos.com takes a small percentage**
 
 ### HOW DO I KNOW MY OPPEOS SOLD?
 
