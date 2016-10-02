@@ -36,5 +36,5 @@
 
 ![OppeosSignUp5](/help/howto/Oppstart5.png)
 
-#### [how to oppeo?](/help/now-what/oppeo.md)
+#### [What's Next for Oppeos?](/help/now-what/oppeo.md)
 
