@@ -1,6 +1,6 @@
 ### How To Sign-Up as an Oppeo
 
-#### In the Upper right corner sign in or sign up.
+#### Make sure you sign in or sign up.
 
 ![SignUp1](/help/howto/SignUP1.png)
 
