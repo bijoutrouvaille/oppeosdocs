@@ -27,6 +27,6 @@
 
 #### You can now fill out a merchant application, start by creating on Oppeo, or select the hamburger and checkout Oppeos.com
 
-#### [How to Create an Oppeos?](/help/howto/oppeo.md)
+#### [How to Create an Oppeo?](/help/howto/oppeo.md)
 
 ![SignUp7](/help/howto/SignUp7.png)
