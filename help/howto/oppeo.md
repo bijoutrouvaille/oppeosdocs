@@ -2,7 +2,7 @@
 
 #### In the Upper right corner sign in or sign up.
 
-![SignUp1](/help/howto/SignUp1.png)
+![SignUp1](/help/howto/SignUP1.png)
 
 #### By creating an Oppeos you can share your space with advertisers you choose or that find you.
 
