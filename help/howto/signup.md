@@ -2,7 +2,7 @@
 
 #### In the middle of the top of the page you will see "Sign UP" click on "Sign Up" 
 
-![SignUp1](/help/howto/SignUp1.png)
+![SignUp1](/help/howto/SignUP1.png)
 
 #### or you can go to the Hamburger (4 lines) on the far left 
 
@@ -11,7 +11,7 @@
 
 #### This will take you to your Google account, once you select the Google member you want to Sign Up as for Oppeos, Google will ask you if you Allow Oppeos.com access to your basic profile.  If, yes click "Allow
 
-![SignUp3](/help/howto/SignUp3.png)
+![SignUp3](/help/howto/SignUP3.png)
 
 #### Once you have allowed access, you will be taken to the Terms and Conditions.  Please read anad understand how we can work to help you.
 
