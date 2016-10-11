@@ -18,6 +18,6 @@
 
 #### Add a zip code or zip codes for the areas you serve.  Also add any additional brand information.
 
-#### Inform the Oppeon of any budget and time constraints that you may have for this campaigne.
+#### Inform the Oppeon of any budget and time constraints that you may have for this campaign.
 
 #### - [Now you can Purchase an Oppeo](/help/now-what/purchase.md)
