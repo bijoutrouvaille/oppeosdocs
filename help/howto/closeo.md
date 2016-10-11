@@ -20,4 +20,4 @@
 
 #### Inform the Oppeon of any budget and time constraints that you may have for this campaigne.
 
-#### - [Now you can Purchase an Oppeon](/help/now-what/purchase.md)
+#### - [Now you can Purchase an Oppeo](/help/now-what/purchase.md)
