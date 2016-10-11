@@ -5,3 +5,5 @@
 #### [how to oppeo?](/help/howto/oppeo.md)
 
 #### [how to closeo?](/help/howto/closeo.md)
+
+#### [how to fill out the Merchant Application?](/help/howto/merchant.md)
