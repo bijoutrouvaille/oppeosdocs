@@ -6,4 +6,4 @@
 
 #### [how to closeo?](/help/howto/closeo.md)
 
-#### [how to fill out the Merchant Application?](/help/howto/merchant.md)
+#### [how to fill out the merchant application?](/help/howto/merchant.md)
