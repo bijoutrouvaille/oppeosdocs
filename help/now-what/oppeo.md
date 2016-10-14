@@ -2,7 +2,7 @@
 
 ### Get Your Oppeos Filled
 
-####            So you signed up for OPPOES.  You Listed you OPEN SPACE.  Now What?
+####            So you signed up for OPPEOS.  You Listed you OPEN SPACE.  Now What?
 
 ####                       Don't just sit there!
 
