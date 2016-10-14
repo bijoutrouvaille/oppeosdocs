@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Oppoes INC. (we, us, ours) allows you to invertize (advertise) anything, anytime, anywhere.  It also gives users the ability to post opportunities for advertising via the internet, an application or in person.   
+Oppeos INC. (we, us, ours) allows you to invertize (advertise) anything, anytime, anywhere.  It also gives users the ability to post opportunities for advertising via the internet, an application or in person.   
 	This policy explains how we collect data, use the data and share, protect and engage with the information in relation to Oppeos INC website or analog (real world business).  
 	By using Oppeos INC. you post content, including links, videos, photos, written materials, access to your social media, residences, business, opportunities on your person, transportation or any other place that advertising may be placed. Users may see, search, engage, share any of your content that you make publicly available through the Oppeos INC. or in conjunction with any of our affiliates.  
 	This applies to all users, licensed agents of users, those given permission to use on behalf of registered users or visitors to the site. 
