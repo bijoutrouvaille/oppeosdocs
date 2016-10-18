@@ -52,4 +52,4 @@
 
 #### And That's it.  Select the "Create an Oppeo" Button or use the Hamburger (lines) in the upper left to navigate to another page at Oppeos.com
 
-#### - [Design and Develope an Oppeos](/help/now-what/Oppeos.md)
+#### - [Design and Develop an Oppeos](/help/now-what/Oppeos.md)
