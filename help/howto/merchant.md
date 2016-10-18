@@ -51,3 +51,5 @@
 !Merchant10](/help/howto/Merchant10.png)
 
 #### And That's it.  Select the "Create an Oppeo" Button or use the Hamburger (lines) in the upper left to navigate to another page at Oppeos.com
+
+#### - [Design and develope and Oppeos](/help/now-what/oppeos.md)
