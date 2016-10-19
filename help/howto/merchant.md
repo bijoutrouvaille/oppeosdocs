@@ -51,4 +51,4 @@
 
 #### And That's it.  Select the "Design and Develop an Oppeo" Button or use the Hamburger (lines) in the upper left to navigate to another page at Oppeos.com
 
-#### - [Design and Develop an Oppeo](/help/now-what/Oppeos.md)
+#### - [Design and Develop an Oppeo](/help/howto/oppeo.md)
