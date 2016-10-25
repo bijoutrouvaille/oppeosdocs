@@ -1,40 +1,58 @@
-### How To Sign-Up as an Oppeo
+## How To Sign-Up as an Oppeo
 
-#### Make sure you sign in or sign up.
+### From MyOppeos or from the Hamburger (Lines on Upper Far Left) click create an oppeo.
 
-![SignUp1](/help/howto/SignUP1.png)
+![OppeoNew1](/help/howto/OppeoNew1.png)
 
-#### By creating an Oppeos you can share your space with advertisers you choose or that find you.
+### 
 
-![OppeosSignUp2](/help/howto/Oppstart2.png)
+![OppeoNew1](/help/howto/OppeoNew1a.png)
 
-#### Short descriptive spaces create tiny urls u can share :)
+### Add a Picture to attract the eye of the Closeo, by Dropping a file within the dashed lines of by selecting the file from the finder folders.
 
-![OppeosSignUp8](/help/howto/Oppstart8.png)
+![OppeoNew2](/help/howto/OppeoNew2.png)
 
-#### You can proactively advertise your oppeo by sharing your url on company social media sites who you want to pay you to advertise for them!
+### Once you have added the picture move and adjust the displayed dashed window to show the portion of the picture to be cropped.  And click Upload or cancel to try again.
 
-![OppeosSignUp3](/help/howto/Oppstart3.png)
+![OppeoNew3](/help/howto/OppeoNew3.png)
 
-#### Imagine a brand pays you to invertize...  How many hrs/days/weeks/months will you commit to getting their word out to your network?
+### Enter the name that you would like displayed on Oppeos.  This will be the title of your oppeo and will be the first text that will be seen in listings.
 
-![OppeosSignUp6](/help/howto/Oppstart6.png)
+![OppeoNew4](/help/howto/OppeoNew4.png)
 
-#### Categories help advertisers find the medium or style of invertising they need.  You can post same or different OPPEOS category.
+### Once you have entered a Display name, Select a Category. Click on the arrow on the far right of the display box and use the scroll bar to select from the following options.  Categories help Closeos and advertisers find the medium or style of invertizing they need.
 
-![OppeosSignUp9](/help/howto/Oppstart9.png)
+![OppeoNew5](/help/howto/OppeoNew5.png)
 
-#### How many followers?  Average likes?  Avg shares?  What kinda people follow you?  How often you interact?  Explain your creativity!
+### Other categories include:  Shorts, Social, and Websites
 
-![OppeosSignUp10](/help/howto/Oppstart10.png)
+### Enter your Price:  How much will you charge for creating this oppeo?
 
-#### Use filters, editors and get creative.  Your professional image is why we keep you, how you get CLOSEOS & what makes U:U.
+### Audience Size:  How many followers do you have, or how many people do you expect will see your oppeo?
 
-![OppeosSignUp4](/help/howto/Oppstart4.png)
+### Record Interactions: Have you gone viral before? How many total likes, shares, conversations, purchases, and such did you get? What's your record?
 
-####    
+![OppeoNew6](/help/howto/OppeoNew6.png)
 
-![OppeosSignUp5](/help/howto/Oppstart5.png)
+### As an option you may enter the quantity that you would like to sell:  If filled in, this oppeo will automatically unpublish itself when the quantity runs out.
 
-#### [What's Next for Oppeos?](/help/now-what/oppeo.md)
+### Also as an option you may enter your Zip Code:  If your oppeo makes sense locally, enter a zip code.
+
+### Add a description:  What are you going to do for the money you get? Remember, audience quality matters more than their quantity; that is the invertizing way. Represent your people.
+
+![OppeoNew7](/help/howto/OppeoNew7.png)
+
+### If you would like to or you want to accept snail mail, please check the box.  The following form will appear so that you can enter your address.
+
+![OppeoNew8](/help/howto/OppeoNew8.png)
+
+### Enter you Address as appropriate
+
+### Once you have entered your address and completed the other entries,  Click Save and Publish
+
+![OppeoNew8](/help/howto/OppeoNew9.png)
+
+### Congratulation you have created your first Oppeos.
+
+### [What's Next for Oppeos?](/help/now-what/oppeo.md)
 
