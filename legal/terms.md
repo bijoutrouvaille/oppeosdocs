@@ -176,6 +176,9 @@ Please see our privacy policy: https://oppeos.com/legal/privacy
 Any virus you may receive as a result of using our site are not our fault and we are not liable.  
 Do not put any viruses out using our data or services or subject anyone to any spam or information they didn’t opt-into the site for.  Be responsible.  
 
+### Braintree
+
+Oppeos INC. uses Braintree, a division of PayPal, Inc. (Braintree) for payment processing services. By using the Braintree payment processing services you agree to the Braintree Payment Services Agreement available at https://www.braintreepayments.com/legal/gateway-agreement, and the applicable bank agreement available at https://www.braintreepayments.com/legal/cea-wells.
 
 ### DISCLAIMER AND LIMITATION OF LIABILITY
 In no event will Oppeos INC., its directors, employees, partners, suppliers, or content providers be liable for any indirect, punitive, special, incidental, consequential or exemplary damages of any kind resulting from (1) access to, use of, inability to access or use the platform or service (2) access any employees, communicate with or contact any representatives of Oppeos INC. (3) for any lost profit, data, or costs associated with using the site or advertising through Oppeos INC. (4) for any conduct of anyone associated with using the site, third party or otherwise. In no event shall Oppeos INC. liability for direct damages be in excess of (in the aggregate) of $10.00 US. 
