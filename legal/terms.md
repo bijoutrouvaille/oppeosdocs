@@ -12,8 +12,11 @@ Minors or people below 18 years old are not allowed to use this Website.
 - A __closeon__ is a user posting a public closeo, or a user purchasing or intending to purchase an oppeo.
 - A __spacehunter__ is a third party agent, unaffiliated with the Company, who is tasked with connecting oppeons and closeons and whose compensation is a percentage of sales the agent generated.
 - A __uniqleo__ is the resultant advertisement of the closeo performed by the oppeon for the closeon. It may come in the form of digital or physical media and/or action.
+- Invertizing is a form of unique and native advertising whereupon the product, brand or logo (event or promotion or service) are advertising in the “flow” of the media and medium to which it is being consumed without “adverting” the consciousness of the viewer or participator. 
 
 The Website is a marketplace, where closeons can purchase oppeos from oppeons for their closeos. Thus oppeons are sellers and closeons are buyers on the Website. The Company does not bear responsibility for the spacehunters or their interactions with buyers and sellers, however, it does reserve the right to settle any and all disputes which arise from such interactions.
+
+Oppeos is an online and in person advertising venue, agency, website, application and network for people and entities engaged in advertising or promotional services for their own (ones they represent or have written permission to represent or license) brands, logos, products or events to find and purchase (or to post) open space for invertizing, advertising, product placement, to aggregate advertising campaigns, purchase and sell advertising or invertizing products and / or engage in creative design; develop Insertion Orders for advertising campaigns, represent talent, aggregate talent, carry out Insertion Orders for advertising agents or brands or otherwise to promote products, services or information we deem fit according to these terms and conditions.
 
 ### Intellectual Property Rights
 
