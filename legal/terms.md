@@ -6,14 +6,14 @@ Minors or people below 18 years old are not allowed to use this Website.
 
 ### Definitions
 
-- An __oppeo__ is an open space posted for sale, which will be filled with the purchased advertizement.
+- An __oppeo__ is an open space, either digital or physical, posted for sale on the Website, which can be filled with an advertizement for a price.
 - A __closeo__ is a product, brand, image or other content to be advertized.
 - An __oppeon__ is a user posting open space for sale on oppeos.io website.
 - A __closeon__ is a user posting a public closeo, or a user purchasing or intending to purchase an oppeo.
 - A __spacehunter__ is a third party agent, unaffiliated with the Company, who is tasked with connecting oppeons and closeons and whose compensation is a percentage of sales the agent generated.
 - A __uniqleo__ is the resultant advertisement of the closeo performed by the oppeon for the closeon. It may come in the form of digital or physical media and/or action.
 
-Oppeos.io is a marketplace where closeons can purchase oppeos from oppeons for their closeos. Thus oppeons are sellers and closeons are buyers on the Website. The Company does not bear responsibility for the spacehunters or their interactions with buyers and sellers, however, it does reserve the right to settle any and all disputes which arise from such interactions.
+The Website is a marketplace, where closeons can purchase oppeos from oppeons for their closeos. Thus oppeons are sellers and closeons are buyers on the Website. The Company does not bear responsibility for the spacehunters or their interactions with buyers and sellers, however, it does reserve the right to settle any and all disputes which arise from such interactions.
 
 ### Intellectual Property Rights
 
@@ -27,17 +27,16 @@ You are specifically restricted from all of the following:
 
 - publishing any Website material in any other media;
 - selling, sublicensing and/or otherwise commercializing any Website material;
-- publicly performing and/or showing any Website material;
 - using this Website in any way that is or may be damaging to this Website;
 - using this Website in any way that impacts user access to this Website;
 - using this Website contrary to applicable laws and regulations, or in any way may cause harm to the Website, or to any person or business entity;
 - engaging in any data mining, data harvesting, data extracting or any other similar activity in relation to this Website; 
 
-Certain areas of this Website are restricted from being accessed by you and the Company may further restrict access by you to any areas of this Website, at any time, without notification. Any user ID and password you may have for this Website are confidential and it is your responsibility to maintain their confidentiality.
+Certain areas of this Website are restricted from being accessed by you and the Company may further restrict access by you to any areas of this Website, at any time, without notification. Any user ID and password and/or any other forms of authentication you may have for this Website are confidential and it is your responsibility to maintain their confidentiality.
 
 ### Your Content
 
-In these Website Standard Terms and Conditions, “Your Content” shall mean any audio, video text, images or other material you choose to display on this Website. By displaying Your Content, you grant Oppeos a non-exclusive, worldwide irrevocable, sub licensable license to use, reproduce, adapt, publish, translate and distribute it in any and all media.
+In these Website Standard Terms and Conditions, “Your Content” shall mean any audio, video text, images or other material you choose to display on this Website. By displaying Your Content, you grant The Company a non-exclusive, worldwide irrevocable, sub licensable license to use, reproduce, adapt, publish, translate and distribute it in any and all media.
 
 Your Content must be your own and must not be invading any third-party’s rights. Oppeos reserves the right to remove any of Your Content from this Website at any time without notice.
 
