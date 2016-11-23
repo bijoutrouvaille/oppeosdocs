@@ -42,7 +42,7 @@ Your Content must be your own and must not be invading any third-party’s right
 
 ### Warranties
 
-This Website is provided “as is,” with all faults, and Oppeos express no representations or warranties, of any kind related to this Website or the materials contained on this Website. Also, nothing contained on this Website shall be interpreted as advising you.
+This Website is provided “as is,” with all faults, and Oppeos expresses no representations or warranties, of any kind related to this Website or the materials contained on this Website. Also, nothing contained on this Website shall be interpreted as advising you.
 
 ### Disputes
 
