@@ -49,6 +49,10 @@ This Website is provided “as is,” with all faults, and Oppeos express no rep
 
 While it is not the responsibility of the Company to resolve disputes, the Company reserves the right to resolve all disputes. You also agree to contact the Company at oppeos@oppeos.io and abide by the Company's decision in the matter.
 
+### Braintree
+
+The Company uses Braintree, a division of PayPal, Inc. (Braintree) for payment processing services. By using the Braintree payment processing services you agree to the Braintree Payment Services Agreement available at https://www.braintreepayments.com/legal/gateway-agreement, and the applicable bank agreement available at https://www.braintreepayments.com/legal/cea-wells.
+
 ### Limitation of liability
 
 In no event shall Oppeos, nor any of its officers, directors and employees, shall be held liable for anything arising out of or in any way connected with your use of this Website whether such liability is under contract. Oppeos, including its officers, directors and employees shall not be held liable for any indirect, consequential or special liability arising out of or in any way related to your use of this Website.
