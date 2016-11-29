@@ -1,10 +1,15 @@
 ## Oppeos Website Terms and Conditions
 
-### Introduction
+### Welcome
 
-These Terms and Conditions are the agreement between you the user and Media Moolah LLC, operating as Oppeos, henceforth the Company, and shall manage your use of this website, oppeos.io, henceforth, the Website. These Terms will be applied fully and affect to your use of this Website. By using this Website, you agreed to accept all terms and conditions written in here. You must not use this Website if you disagree with any of these Website Terms and Conditions.
+Welcome to the oppeos terms page. We'll try to make it as simple as possible for you as we set out these hard legal guidelines. Our idea of these is simple: if you aren't out to steal, cheat or abuse, if you are an honest and law-abiding citizen of the Internet, then chances are that your good sense is enough to make use of this platform in a way that's beneficial to yourself and others. Still, while we try our best to serve everyone by providing a safe and supportive place to trade, we cannot be responsible for everyone or guarantee anyone's safety; enter this adventure at your own risk. This paragraph, however, is not the agreement. The agreements start below.
 
-Minors or people below 18 years old are not allowed to use this Website.
+### The Agreement
+
+These Terms and Conditions are the agreement between you the user and us, Media Moolah LLC, operating as Oppeos, henceforth the Company, which shall manage your use of this website, oppeos.io, henceforth, the Website. These Terms will be applied fully to your use of this Website. By using this Website, you agree to accept all terms and conditions written in here. You must not use this Website if you disagree with any of these Website Terms and Conditions.
+
+If you are at least 13 but younger than 18 years old, you must get your parent's or legal guardian's permission to use this site.
+Young people under the age of 13 are not allowed to use the site at all.
 
 ### Definitions
 
@@ -30,18 +35,16 @@ You are granted limited license only for purposes of viewing the material contai
 
 You are specifically restricted from all of the following:
 
-- publishing any Website material in any other media;
-- selling, sublicensing and/or otherwise commercializing any Website material;
-- using this Website in any way that is or may be damaging to this Website;
+- using this Website in any way that is or may be damaging to this Website or the Company;
 - using this Website in any way that impacts user access to this Website;
-- using this Website contrary to applicable laws and regulations, or in any way may cause harm to the Website, or to any person or business entity;
+- using this Website contrary to applicable laws and regulations, or in any way that may cause harm to the Website, or to any person or business entity;
 - engaging in any data mining, data harvesting, data extracting or any other similar activity in relation to this Website; 
 
-Certain areas of this Website are restricted from being accessed by you and the Company may further restrict access by you to any areas of this Website, at any time, without notification. Any user ID and password and/or any other forms of authentication you may have for this Website are confidential and it is your responsibility to maintain their confidentiality.
+Certain areas of this Website are restricted from being accessed by you and the Company may further restrict access by you to any areas of this Website, at any time, without notification. Any user ID and password and/or any other forms of authentication you may receive for this Website are confidential and it is your responsibility to maintain their confidentiality.
 
 ### Your Content
 
-In these Website Standard Terms and Conditions, “Your Content” shall mean any audio, video text, images or other material you choose to display on this Website. By displaying Your Content, you grant The Company a non-exclusive, worldwide irrevocable, sub licensable license to use, reproduce, adapt, publish, translate and distribute it in any and all media.
+In these Website Terms and Conditions, “Your Content” shall mean any audio, video text, images or other material you choose to display on this Website. By displaying Your Content, you grant The Company a non-exclusive, worldwide irrevocable, sub licensable license to use, reproduce, adapt, publish, translate and distribute it in any and all media.
 
 Your Content must be your own and must not be invading any third-party’s rights. Oppeos reserves the right to remove any of Your Content from this Website at any time without notice.
 
@@ -59,7 +62,7 @@ The Company uses Braintree, a division of PayPal, Inc. (Braintree) for payment p
 
 ### Limitation of liability
 
-In no event shall Oppeos, nor any of its officers, directors and employees, shall be held liable for anything arising out of or in any way connected with your use of this Website whether such liability is under contract. Oppeos, including its officers, directors and employees shall not be held liable for any indirect, consequential or special liability arising out of or in any way related to your use of this Website.
+In no event shall Oppeos, nor any of its officers, directors and employees, be held liable for anything arising out of or in any way connected with your use of this Website whether such liability is under contract. Oppeos, including its officers, directors and employees shall not be held liable for any indirect, consequential or special liability arising out of or in any way related to your use of this Website.
 
 ### Indemnification
 
