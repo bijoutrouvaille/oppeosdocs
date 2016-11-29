@@ -4,7 +4,7 @@
 
 Welcome to the oppeos terms page. We'll try to make it as simple as possible for you as we set out these hard legal rules. Our idea of these is simple: if you aren't out to steal, cheat or abuse, if you are an honest and law-abiding citizen of the Internet, then chances are that your good sense is enough to make use of this platform in a way that's beneficial to yourself and others. Still, while we try our best to serve everyone by providing a safe and supportive place to trade, we cannot be responsible for everyone or guarantee anyone's safety. Finally, because this software is extremaly complex, it is bound to have bugs. This software is also meant to be used by a huge number of people, and so we cannot be held liable for any damage due to bugs. Such is the nature of most software, including ours. Welcome to the adventure, but enter at your own risk.
 
-The preceding paragraph, however, is not the agreement. The agreement start below.
+The preceding paragraph, however, is not the agreement. The agreement starts below.
 
 ### The Agreement
 
