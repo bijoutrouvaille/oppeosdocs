@@ -13,7 +13,7 @@
 
 ![SignUp3](/help/howto/SignUP3.jpg)
 
-#### Once you have allowed access, you will be taken to the Terms and Conditions.  Please read anad understand how we can work to help you.
+#### Once you have allowed access, you will be taken to the Terms and Conditions.  Please read and understand how we can work to help you.
 
 ![SignUp4](/help/howto/SignUp4.png)
 
