@@ -8,16 +8,15 @@
 
 ####                    Advertise yourself first!
 
-Reach out to CLOSEOS.  Anyone can fill your Open Space.  A local bake sale or the top 20 companies in the world.  Find the twitter accounts, facebook accounts, social media and emails or just knock on their doors!  It's like crowdfunding but CLOSEO seeking.  Or you could let us do the work, but it's best to take matters into your own hands.
+Reach out to CLOSEOS.  Anyone can fill your Open Space.  A local bake sale or the top 20 companies in the world.  Find the twitter accounts, facebook accounts, social media and emails or just knock on their doors!  It's like crowdfunding but CLOSEO seeking. Or you could let us do the work, but it's best to take matters into your own hands.
 
 ![HTO-1 Advertising Options](/help/now-what/HTO-1%20Advertising%20Options.png)
 
-Go to your completed OPPEO and you'll see your tiny URL
+Go to your posted OPPEO and you'll see your tiny URL. Invertize that first to get clients!
 
 ![HTO-2 Sun](/help/now-what/HTO-2%20Sun.png)
 
-Put your tiny URL where CLOSEOS will see it.
-How creatively can you campaign?
+Put your tiny URL where CLOSEOS will see it. You are your own first client. How creatively can you campaign?
 
 ### How to make a kick ass OPPEO?
 
