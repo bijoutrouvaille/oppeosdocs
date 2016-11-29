@@ -11,7 +11,7 @@
 
 #### This will take you to your Google account, once you select the Google member you want to Sign Up as for Oppeos, Google will ask you if you Allow Oppeos.io access to your basic profile.  If, yes click "Allow
 
-![SignUp3](/help/howto/SignUP3.png)
+![SignUp3](/help/howto/SignUP3.jpg)
 
 #### Once you have allowed access, you will be taken to the Terms and Conditions.  Please read anad understand how we can work to help you.
 
