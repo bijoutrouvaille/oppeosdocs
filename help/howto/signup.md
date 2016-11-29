@@ -15,11 +15,11 @@
 
 #### Once you have allowed access, you will be taken to the Terms and Conditions.  Please read and understand how we can work to help you.
 
-![SignUp4](/help/howto/SignUp4.png)
+![SignUp4](/help/howto/SignUP4.jpg)
 
 #### Once you understand the terms and agreemments and have successfully navigated a Zombie Apocalypse, please click "I Agree"
 
-![SignUp5](/help/howto/SignUp5.png)
+![SignUp5](/help/howto/SignUP5.jpg)
 
 #### Once you have Agreed to the terms, you are now Signed In, you are free to explore the rest of Oppeos.io
 
