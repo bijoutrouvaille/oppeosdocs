@@ -1,4 +1,4 @@
-### Welcome to Oppeos.com (c), please click below for further information on:
+### Welcome to Oppeos.io (c), please click below for further information on:
 
 #### [how to sign up?](/help/howto/signup.md)
 
