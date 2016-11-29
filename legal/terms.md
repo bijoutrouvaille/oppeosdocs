@@ -10,8 +10,8 @@ The preceding paragraph, however, is not the agreement. The agreement start belo
 
 These Terms and Conditions are the agreement between you the user and us, Media Moolah LLC, operating as Oppeos, henceforth the Company, which shall manage your use of this website, oppeos.io, henceforth, the Website. These Terms will be applied fully to your use of this Website. By using this Website, you agree to accept all terms and conditions written in here. You must not use this Website if you disagree with any of these Website Terms and Conditions.
 
-If you are at least 13 but younger than 18 years old, you must get your parent's or legal guardian's permission to use this site.
-Young people under the age of 13 are not allowed to use the site at all.
+If you are at least 13 but younger than 18 years old, you must get your parent's or legal guardian's permission to use this Website.
+Young people under the age of 13 are not allowed to use the Website at all.
 
 ### Definitions
 
