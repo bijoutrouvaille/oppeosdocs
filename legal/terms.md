@@ -37,6 +37,7 @@ You are granted limited license only for purposes of viewing the material contai
 
 You are specifically restricted from all of the following:
 
+- providing false or misleading information about yourself or your brands, products or companies;
 - using this Website in any way that is or may be damaging to this Website or the Company;
 - using this Website in any way that impacts user access to this Website;
 - using this Website contrary to applicable laws and regulations, or in any way that may cause harm to the Website, or to any person or business entity;
@@ -56,7 +57,7 @@ This Website is provided “as is,” with all faults, and Oppeos expresses no r
 
 ### Disputes
 
-While it is not the responsibility of the Company to resolve disputes, the Company reserves the right to resolve all disputes. You also agree to contact the Company at oppeos@oppeos.io and abide by the Company's decision in the matter.
+While it is not the responsibility of the Company to resolve disputes, the Company reserves the right to resolve all disputes. You also agree to contact the Company at oppeos@oppeos.io and abide by the Company's decision in cases of disagreements with other users or the Company, which you cannot resolve through amicably peaceful dealmaking.
 
 ### Braintree
 
