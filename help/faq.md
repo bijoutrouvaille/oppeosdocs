@@ -1,8 +1,12 @@
 ## FAQ
 
+### WHERE CAN I GET HELP?
+
+Our friendly and resourceful support crew is reachable by email oppeos@oppeos.io.
+
 ### HOW DOES IT WORK?
 
-Oppeos.com is a marketplace where anyone can buy or sell oppeos. An oppeo is an open space for marketing. It is a marketing campaign performed by the seller for the buyer. Examples could include anything from a single social media post, to a weeklong social media campaign, a product placement in an upcoming film or video game, or simply a day of wearing a t-shirt with your logo on it. The brand or product to be advertized is called a closeo.
+Oppeos.io is a marketplace where anyone can buy or sell oppeos. An oppeo is an open space for marketing. It is a marketing campaign performed by the seller for the buyer. Examples could include anything from a single social media post, to a weeklong social media campaign, a product placement in an upcoming film or video game, or simply a day of wearing a t-shirt with your logo on it. The brand or product to be advertized is called a closeo.
 
 ### HOW MUCH DOES IT COST?
 
