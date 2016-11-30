@@ -18,7 +18,7 @@ A notification is sent via email, so please make sure that yours is accurate in 
 
 ### WHEN DO OPPEONS GET THEIR MONEY?
 
-The money is placed on hold in an Escrow account until the purchase is complete. 7-9 days after the oppeon marks the transaction as finished by uploading the uniqleo, the money is released from Escrow into the Oppeon's [venmo.com](https://venmo.com) account.
+The money is placed on hold in an Escrow account until the campaign is marked finished by completing the uniqleo on the transaction page. 7-9 days after the oppeon marks the transaction as finished, the money is released from Escrow into the Oppeon's [venmo.com](https://venmo.com) account.
 
 ### HOW LONG DOES IT TAKE?
 
@@ -27,6 +27,10 @@ It is up to the oppeon to place the product, logo or brand agreed upon by both p
 ### WHAT IS IN IT FOR CLOSEONS?
 
 Targeted market, low cpm, interactive immersive word of mouth, personal advertising, combined with traditional recall tactics driving direct action.
+
+### WHAT IS A DISCLOSURE?
+
+If you are making online invertizing/advertizing posts, you are required by law to clearly disclose the fact that you are being paid to do so. Usually, hashtag ad, along with the closeo name is enough, e.g. __#ad Tesla Motors__. We cannot give you legal advice, however, and you are required to personally learn the FTC regulations as they apply to you. You can learn about the regulations by visiting FTC at the following address: https://www.ftc.gov/tips-advice/business-center/guidance/native-advertising-guide-businesses.
 
 ### A DICTIONARY, PLEASE
 
