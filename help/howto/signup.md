@@ -17,7 +17,7 @@ Once you have allowed access, you will be taken to the Terms and Conditions.  Pl
 
 ![SignUp4](/help/howto/SignUP4.jpg)
 
-Once you understand the agreemment and have successfully navigated a Zombie Apocalypse, please click "I Agree."
+Once you understand the agreemment and have successfully navigated the legaleze, please click "I Agree."
 
 ![SignUp5](/help/howto/SignUP5.jpg)
 
