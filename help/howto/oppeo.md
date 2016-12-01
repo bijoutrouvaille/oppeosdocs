@@ -1,6 +1,6 @@
 ## How To Sign-Up as an Oppeo
 
-From MyOppeos or from the Hamburger (Lines on Upper Far Left) click "Create an Oppeo."
+From MyOppeos or from the Hamburger (lines in upper far Left) click "Create an Oppeo."
 
 ![OppeoNew1](/help/howto/OppeoNew1.png)
 
@@ -22,7 +22,7 @@ Enter the name that you would like displayed on Oppeos.  This will be the title 
 
 ![OppeoNew4](/help/howto/OppeoNew4.png)
 
-Once you have entered a Display name, select a Category. Click on the arrow on the far right of the display box and use the scroll bar to select from the presented options. Categories help Closeos and advertisers find the medium or style of invertizing they need.
+Once you have entered a display name, select a category. Click on the arrow on the far right of the display box and use the scroll bar to select from the presented options. Categories help Closeos and advertisers find the medium or style of invertizing they need.
 
 ![OppeoNew5](/help/howto/OppeoNew5.png)
 
