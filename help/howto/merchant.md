@@ -26,7 +26,7 @@ Once you enter your Venmo email, please click the "continue" button.
 
 ### Step 3
 
-Please fill out the followinng information.  There will be questions marks on the page by the associated information Oppeos needs, if you have a question, please hover over the question marks and a description will display what is needed for this data.
+Please fill out the followinng information.  There will be question marks on the page by the associated information Oppeos needs, if you have a question, please hover over the question marks and a description will display what is needed for this data.
 
 ![Merchant4](/help/howto/Merchant4.png)
 
@@ -34,7 +34,7 @@ Sorry to ask, but Oppeos.io's payment gateway requires our merchants to provide 
 
 ![Merchant5](/help/howto/Merchant5.png)
 
-Please click on the "This is a Business" Checkbox if you are a registered business.  Just a reminder, Hover over the question marks if you have any questions filling out the form.  If you still have questions, just shoot us an email, we can help too.
+Please click on the "This is a Business" Checkbox if you are a registered business.  Just a reminder, hover over the question marks if you have any questions filling out the form.  If you still have questions, just shoot us an email, we can help too.
 
 ![Merchant6](/help/howto/Merchant6.png)
 ![Merchant7](/help/howto/Merchant7.png)
@@ -51,6 +51,6 @@ Oppeos.io will reimburse you via a venmo.com account.  Please make sure that thi
 
 ![Merchant10](/help/howto/Merchant10.png)
 
-And That's it. Select the "Design and Develop an Oppeo" Button or use the Hamburger (lines) in the upper left to navigate to another page at Oppeos.io
+And that's it. Select the "Design and Develop an Oppeo" button or use the Hamburger (lines) in the upper left to navigate to another page at Oppeos.io
 
 Next, [Design and Develop an Oppeo](/help/howto/oppeo.md)
