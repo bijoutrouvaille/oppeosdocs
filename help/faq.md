@@ -30,7 +30,7 @@ Targeted market, low cpm, interactive immersive word of mouth, personal advertis
 
 ### WHAT IS A DISCLOSURE?
 
-If you are making online invertizing/advertizing posts, you are required by law to clearly disclose the fact that you are being paid to do so. Usually, hashtag ad, along with the closeo name is enough, e.g. __#ad Tesla Motors__. We cannot give you legal advice, however, and you are required to personally learn the FTC regulations as they apply to you. You can learn about the regulations by visiting FTC at the following address: https://www.ftc.gov/tips-advice/business-center/guidance/native-advertising-guide-businesses.
+If you are making online invertizing/advertizing posts, you are required by law to clearly disclose the fact that you are being paid to do so. Usually, a hashtag ad along with the closeo name is enough, e.g. __#ad Tesla Motors__. We cannot give you legal advice, however, and you are required to personally learn the FTC regulations as they apply to you. You can learn about the regulations by visiting FTC at the following address: https://www.ftc.gov/tips-advice/business-center/guidance/native-advertising-guide-businesses.
 
 ### A DICTIONARY, PLEASE
 
