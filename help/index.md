@@ -16,12 +16,4 @@ You did something, now what's next?
 - [Uniqleo: I have completed an Oppeo. What do I do?](/help/now-what/uniqleo.md)
 - [Closeo: I have posted one. What is next?](/help/now-what/closeo.md)
 
-Why Invertize with Oppeos?
-
-https://youtu.be/9LAiCsG6E10
-
-Watch the Oppeos Video again!!
-
-https://youtu.be/SXsbcFthzDw
-
 ![](/help/small-banner.jpg)
