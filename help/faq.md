@@ -20,6 +20,12 @@ A notification is sent via email, so please make sure that yours is accurate in 
 
 The money is placed on hold in an Escrow account until the campaign is marked finished by completing the uniqleo on the transaction page. 7-9 days after the oppeon marks the transaction as finished, the money is released from Escrow into the Oppeon's [venmo.com](https://venmo.com) account.
 
+### REFUNDS
+
+The Oppeos platform provides an excellent safety mechanism for your purchases. Money from the sale does not go to the OPPEON (the seller) immediately. Instead it goes to a special "Escrow" account. Once the oppeon marks the service complete, by uploading a UNIQLEO, the CLOSEON (the buyer) has 7 days to accept the work or request improvements or refunds. 
+
+If the uniqleo that you paid for is unsatisfactory, please contact oppeos@oppeos.io during the 7 day review period, and we will work with you and the oppeon to make improvements, or issue a full refund. Please note, it is up to the customer service team to decide whether or not to refund. Refunds are also impossible, if requested after the 7 day review period has expired.
+
 ### HOW LONG DOES IT TAKE?
 
 It is up to the oppeon to place the product, logo or brand agreed upon by both parties into the purchased space. The oppeon agrees to a timely delivery of the product.
