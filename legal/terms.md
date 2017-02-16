@@ -51,6 +51,8 @@ In these Website Terms and Conditions, “Your Content” shall mean any audio, 
 
 Your Content must be your own and must not be invading any third-party’s rights. Oppeos reserves the right to remove any of Your Content from this Website at any time without notice.
 
+As a Closeon, by purchasing an oppeo you are granting to the oppeon the right to creatively use your logos, trade marks, digital media and/or IP material, which you have provided with the closeo, to be used on or outside of this web-site for the purposes of promoting your closeo.
+
 ### Warranties
 
 This Website is provided “as is,” with all faults, and Oppeos expresses no representations or warranties, of any kind related to this Website or the materials contained on this Website. Also, nothing contained on this Website shall be interpreted as advising you.
